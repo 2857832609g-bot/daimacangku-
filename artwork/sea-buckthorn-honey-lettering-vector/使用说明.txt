@@ -1,0 +1,24 @@
+沙棘蜂蜜 / 蜂产品制品｜白底黑字矢量字稿
+
+文件：
+honey_lettering_black_vector.svg：两行组合，纯矢量路径，白底黑字，两行分别分组。
+honey_lettering_black_vector.pdf：矢量 PDF，无嵌入图片、无字体依赖。
+honey_lettering_black_vector.eps：矢量 EPS，可用于常见排版软件。
+honey_title_black_vector.svg：单独“沙棘蜂蜜”字稿，含原有叶片与蜜滴轮廓。
+honey_subtitle_black_vector.svg：单独“蜂产品制品”字稿。
+honey_lettering_black_preview.png：高清预览，PNG 本身是位图，制作请用 SVG/PDF/EPS。
+
+使用：
+可以在 Adobe Illustrator、CorelDRAW、Inkscape 等软件打开 SVG/PDF/EPS，放大缩小不损失矢量清晰度。
+文字已经转曲为闭合贝塞尔路径，不需要安装字体；可以编辑节点、调整形状与颜色，但不是可以直接重新输入文字的字体文本层。
+SVG 两行各有独立分组，背景是独立白色矩形，需要透明背景时可删除白色矩形。
+
+制作：
+依据参考图的原有字形进行单色化和路径描摹，未用其他字体替换。
+保留原有排版与装饰轮廓，去除绿色渐变、金色高光与叶脉明暗，统一为黑色。
+来源为像素图，细小轮廓经过描摹平滑；不是原始字体文件。
+
+检查：
+SVG 为真正闭合路径，不含 image 位图元素、不含字体 text 元素。
+PDF 检查结果：0 嵌入图片、0 字体资源，只有白底与黑色矢量绘图。
+矢量渲染与处理后字形遮罩的连通结构、22 个内部孔洞一致；已核对实际预览与差异图。
