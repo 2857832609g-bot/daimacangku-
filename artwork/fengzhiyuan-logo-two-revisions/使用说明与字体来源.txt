@@ -1,0 +1,22 @@
+蜂芝源 Logo｜去除顶部灵芝 · 两款白底设计
+
+01：蜜金圆角徽章，深棕蜜金字标。
+02：奶油橙简洁徽章，暖橙字标。
+两款均沿用第一稿圆脸抱抱蜂的姿势与形状，手持灵芝保留；框顶部灵芝已删除，只保留皇冠；带花朵、蜜滴和六边形蜂巢框。
+名称：蜂芝源，第三字是“源”，不是“缘”。
+
+文件：
+fengzhiyuan_logo_revision_01_white.png / 02_white.png：1254 × 1254 像素白底Logo，300 dpi。
+wordmarks：两个配色词标的路径SVG和透明PNG。SVG仅含“蜂芝源”文字路径，不是整幅蜜蜂图形矢量文件。
+fonts：实际使用字体及完整OFL许可。完整Logo为PNG像素图，后续需矢量版本时应另做图形矢量整理。
+
+字体与字形设计：
+实际基础字体：Mochiy Pop One Regular，PostScript名称 MochiyPopOne-Regular。
+来自Google Fonts官方仓库：
+https://github.com/google/fonts/tree/main/ofl/mochiypopone
+字体采用SIL Open Font License 1.1，可用于商业设计，使用及分发字体文件时遵守随附OFL条款。
+词标从真实字体轮廓转为路径，做了轻微跳跃排版、角度、字距与蜂蜜色描边；不是生图伪造字体。
+字标SVG无需安装字体即可编辑路径；字体文件附上供继续输入文字排版。
+
+图形制作：
+Q版蜜蜂、手持灵芝、花蜜装饰和蜂巢徽章为本次需求重新生成的设计方案；文字另以真实开源字体排版。
