@@ -1,0 +1,25 @@
+蜂芝源｜第二稿平滑曲线矢量版
+
+内容：
+- fengzhiyuan_logo_02_smooth_vector.svg：白底、分组可编辑的完整彩色标志。
+- fengzhiyuan_logo_02_smooth_vector_transparent.svg：外部透明背景版，徽章内部的奶油色底与白色高光保留。
+- fengzhiyuan_logo_02_smooth_vector.pdf：完整矢量 PDF。
+- fengzhiyuan_logo_02_smooth_vector.eps：兼容的纯矢量 EPS。
+- fengzhiyuan_logo_02_vector_preview_3000px.png：高清预览图片，PNG 本身不是矢量文件。
+- fonts/OFL.txt：字标所用开源字体许可。
+
+设计处理：
+依据已确认的第二张“奶油橙简洁徽章”重绘。保留六边形蜂巢框、顶部皇冠、Q版蜜蜂抱灵芝、花朵、蜂蜜滴及“蜂芝源”字标。将细碎纹理归纳为平滑的曲线路径、矢量色块与渐变，方便放大和编辑。
+
+编辑：
+SVG 可以在 Adobe Illustrator、Inkscape 等支持 SVG 的矢量软件中打开。元素已按背景、边框、皇冠、花朵蜂蜜、蜜蜂与灵芝、名字底牌、字标分组。背景可单独隐藏。
+PDF 与 EPS 可用支持该格式的矢量软件打开。不同软件导入时可能重新组织分组。
+“蜂芝源”文字沿用上一版的 Mochiy Pop One 字形路径，已经转曲，没有安装字体的依赖；需要改变文字内容时应重新排字。
+
+字体来源：
+Mochiy Pop One Regular
+作者与权利人详见 OFL.txt。
+许可：SIL Open Font License 1.1；可用于商业设计。
+https://github.com/google/fonts/tree/main/ofl/mochiypopone
+
+图形是由已确认概念图整理出的曲线重绘稿。字体许可仅说明所用字体的授权，不构成商标注册或排他权保证。
