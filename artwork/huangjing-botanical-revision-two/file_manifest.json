@@ -1,0 +1,34 @@
+[
+  {
+    "file": "labels/huangjing_revised_A_15x3_5cm.png",
+    "product": "黄精蜂蜜",
+    "variant": "A",
+    "style": "暖金流光·鲜黄精",
+    "size_px": [
+      4500,
+      1050
+    ],
+    "size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "sha256": "71c4ef5e96696f569892706db7dc90cf3a415685aa727db4f633e6e906195753"
+  },
+  {
+    "file": "labels/huangjing_revised_B_15x3_5cm.png",
+    "product": "黄精蜂蜜",
+    "variant": "B",
+    "style": "香槟植物·鲜黄精",
+    "size_px": [
+      4500,
+      1050
+    ],
+    "size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "sha256": "5e8edfc2002b21469bf46a5bdd9588f85463f71132aedab9aba37d04e37718b2"
+  }
+]
