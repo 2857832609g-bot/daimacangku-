@@ -1,0 +1,36 @@
+{
+  "huangjing_B_editable_15x3_5cm.psd": {
+    "bytes": 19874929,
+    "sha256": "1aef8da0cc3a557574114c4eb0f0fb8604f9d81c2ca7902a663b78712cfc93e7"
+  },
+  "huangjing_B_editable_15x3_5cm.png": {
+    "bytes": 3614177,
+    "sha256": "f6074eb14d72260ccc0a1cc03c95e9630eea9bec8b053336ed12a0e0d7f0e100"
+  },
+  "huangjing_B_final_preview.jpg": {
+    "bytes": 564455,
+    "sha256": "5bf1f1607335216c8c7b50dc9f1bd15e957b46b774262dc38b3aed7358f56ce5"
+  },
+  "huangjing_B_layered_complete.zip": {
+    "bytes": 51037051,
+    "sha256": "b333f7185d171a02ed53928314dd832138f7cc9d9d87679034afb0a7d24792d2"
+  },
+  "layer_structure": {
+    "groups": 12,
+    "independent_content_layers": 52,
+    "native_editable_text_layers": 34,
+    "independent_image_layers": 18,
+    "background_is_separate": true,
+    "canvas_px": [
+      4500,
+      1050
+    ],
+    "physical_size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "validation_passed": true,
+    "adobe_ui_test_performed": false
+  }
+}
