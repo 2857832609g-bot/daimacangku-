@@ -1,0 +1,362 @@
+[
+  {
+    "file": "labels/01_huangjing_A_15x3_5cm.png",
+    "product": "黄精蜂蜜",
+    "variant": "A",
+    "style": "蜜琥珀流光",
+    "size_px": [
+      4500,
+      1050
+    ],
+    "size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "sha256": "22f4372927bcb64a789dc4723ea34df9c4760e222e6a11a4e496a123bf02526c",
+    "uniform_scale_x": 1.8421052631578947,
+    "uniform_scale_y": 1.8421052631578947,
+    "brand_bbox": [
+      2118,
+      162,
+      2443,
+      308
+    ],
+    "subtitle_bbox": [
+      1926,
+      555,
+      2634,
+      678
+    ],
+    "net_text_bbox": [
+      2576,
+      938,
+      2841,
+      995
+    ]
+  },
+  {
+    "file": "labels/01_huangjing_B_15x3_5cm.png",
+    "product": "黄精蜂蜜",
+    "variant": "B",
+    "style": "香槟奶茶植物纹",
+    "size_px": [
+      4500,
+      1050
+    ],
+    "size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "sha256": "97fd9fa8f9dd4778b2a02c8a655a9eeba87aba4a3725d13d980fbc143fd7e53c",
+    "uniform_scale_x": 1.8453427065026362,
+    "uniform_scale_y": 1.8453427065026362,
+    "brand_bbox": [
+      2118,
+      162,
+      2443,
+      308
+    ],
+    "subtitle_bbox": [
+      1926,
+      555,
+      2634,
+      678
+    ],
+    "net_text_bbox": [
+      2576,
+      938,
+      2841,
+      995
+    ]
+  },
+  {
+    "file": "labels/02_renshen_A_15x3_5cm.png",
+    "product": "人参蜂蜜",
+    "variant": "A",
+    "style": "象牙朱砂丝光",
+    "size_px": [
+      4500,
+      1050
+    ],
+    "size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "sha256": "8fb537dc7a426c223fc7dcb1bd072aebed22d68dc1cbf9412dbdb1395e96a21c",
+    "uniform_scale_x": 1.8485915492957747,
+    "uniform_scale_y": 1.8485915492957747,
+    "brand_bbox": [
+      2118,
+      162,
+      2443,
+      308
+    ],
+    "subtitle_bbox": [
+      1926,
+      555,
+      2634,
+      678
+    ],
+    "net_text_bbox": [
+      2576,
+      938,
+      2841,
+      995
+    ]
+  },
+  {
+    "file": "labels/02_renshen_B_15x3_5cm.png",
+    "product": "人参蜂蜜",
+    "variant": "B",
+    "style": "米金根须雕刻",
+    "size_px": [
+      4500,
+      1050
+    ],
+    "size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "sha256": "0dbc2ac35b1cb47adec91f1bbdb206d5cf2dc05cdeb49d9a022171d94bf24d67",
+    "uniform_scale_x": 1.8485915492957747,
+    "uniform_scale_y": 1.8485915492957747,
+    "brand_bbox": [
+      2118,
+      162,
+      2443,
+      308
+    ],
+    "subtitle_bbox": [
+      1926,
+      555,
+      2634,
+      678
+    ],
+    "net_text_bbox": [
+      2576,
+      938,
+      2841,
+      995
+    ]
+  },
+  {
+    "file": "labels/03_shihu_A_15x3_5cm.png",
+    "product": "铁皮石斛蜂蜜",
+    "variant": "A",
+    "style": "玉绿清润叶脉",
+    "size_px": [
+      4500,
+      1050
+    ],
+    "size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "sha256": "369bf542f37a6e3eacfaf9d20c5e129a0ad1abdacbf98c3e95d4bd50f5fd5501",
+    "uniform_scale_x": 1.8518518518518519,
+    "uniform_scale_y": 1.8518518518518519,
+    "brand_bbox": [
+      2118,
+      162,
+      2443,
+      308
+    ],
+    "subtitle_bbox": [
+      1926,
+      555,
+      2634,
+      678
+    ],
+    "net_text_bbox": [
+      2576,
+      938,
+      2841,
+      995
+    ]
+  },
+  {
+    "file": "labels/03_shihu_B_15x3_5cm.png",
+    "product": "铁皮石斛蜂蜜",
+    "variant": "B",
+    "style": "深翠薄荷金线",
+    "size_px": [
+      4500,
+      1050
+    ],
+    "size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "sha256": "5759b44f7e9d8bf53e4a586a89091b475521c160ab27ed1a2f17489d5d4b29a1",
+    "uniform_scale_x": 1.8584070796460177,
+    "uniform_scale_y": 1.8584070796460177,
+    "brand_bbox": [
+      2118,
+      162,
+      2443,
+      308
+    ],
+    "subtitle_bbox": [
+      1926,
+      555,
+      2634,
+      678
+    ],
+    "net_text_bbox": [
+      2576,
+      938,
+      2841,
+      995
+    ]
+  },
+  {
+    "file": "labels/04_gouqi_juhua_A_15x3_5cm.png",
+    "product": "枸杞菊花蜂蜜",
+    "variant": "A",
+    "style": "枸杞红金流光",
+    "size_px": [
+      4500,
+      1050
+    ],
+    "size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "sha256": "fb4b82125af2301e909e7c7a6e2749ea5fb47bab0fef551d663038bf5f445c8d",
+    "uniform_scale_x": 1.8421052631578947,
+    "uniform_scale_y": 1.8421052631578947,
+    "brand_bbox": [
+      2118,
+      162,
+      2443,
+      308
+    ],
+    "subtitle_bbox": [
+      1926,
+      555,
+      2634,
+      678
+    ],
+    "net_text_bbox": [
+      2576,
+      938,
+      2841,
+      995
+    ]
+  },
+  {
+    "file": "labels/04_gouqi_juhua_B_15x3_5cm.png",
+    "product": "枸杞菊花蜂蜜",
+    "variant": "B",
+    "style": "菊花明黄金韵",
+    "size_px": [
+      4500,
+      1050
+    ],
+    "size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "sha256": "d6faaca5f0abdc558f6d7e5ba058936c2a90c19997b6fd47305a8fd570856f2c",
+    "uniform_scale_x": 1.8551236749116609,
+    "uniform_scale_y": 1.8551236749116609,
+    "brand_bbox": [
+      2118,
+      162,
+      2443,
+      308
+    ],
+    "subtitle_bbox": [
+      1926,
+      555,
+      2634,
+      678
+    ],
+    "net_text_bbox": [
+      2576,
+      938,
+      2841,
+      995
+    ]
+  },
+  {
+    "file": "labels/05_pangdahai_A_15x3_5cm.png",
+    "product": "胖大海蜂蜜",
+    "variant": "A",
+    "style": "奶茶涟漪柔光",
+    "size_px": [
+      4500,
+      1050
+    ],
+    "size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "sha256": "735546620313bddcdb7692e151f0da30e8d9ff933a14024397b41429ff5a504d",
+    "uniform_scale_x": 1.8650088809946714,
+    "uniform_scale_y": 1.8650088809946714,
+    "brand_bbox": [
+      2118,
+      162,
+      2443,
+      308
+    ],
+    "subtitle_bbox": [
+      1926,
+      555,
+      2634,
+      678
+    ],
+    "net_text_bbox": [
+      2576,
+      938,
+      2841,
+      995
+    ]
+  },
+  {
+    "file": "labels/05_pangdahai_B_15x3_5cm.png",
+    "product": "胖大海蜂蜜",
+    "variant": "B",
+    "style": "深琥珀铜金",
+    "size_px": [
+      4500,
+      1050
+    ],
+    "size_cm": [
+      15,
+      3.5
+    ],
+    "dpi": 762,
+    "sha256": "c99ccc601b80f3e32d878fd714a34b149fcc27c671db2dd7f2b5775a4e4355db",
+    "uniform_scale_x": 1.8453427065026362,
+    "uniform_scale_y": 1.8453427065026362,
+    "brand_bbox": [
+      2118,
+      162,
+      2443,
+      308
+    ],
+    "subtitle_bbox": [
+      1926,
+      555,
+      2634,
+      678
+    ],
+    "net_text_bbox": [
+      2576,
+      938,
+      2841,
+      995
+    ]
+  }
+]
